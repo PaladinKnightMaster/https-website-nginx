@@ -1,0 +1,8 @@
+.hide-column-names table thead th {
+    display: none;
+}
+
+.hide-column-names table td {
+    text-align: right;
+    white-space: normal;
+}
